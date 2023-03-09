@@ -1,0 +1,23 @@
+1 - lê um número e retorna o número digitado
+2 - Ler dois inteiros, retornando sua soma, substração, multiplicação e divisão (num1/num2)
+3 -
+4 - 
+5 - 
+6 - 
+7 - 
+8 - 
+9 -
+10 - 
+
+
+Comandos If, switch/case e do/while em assembly
+11 - Fazer um laço em que lê um número "n" e imprime de "0" até "n"
+12 - Fazer um laço que lê um número n>0 e imprime de n até "0" em ordem descrescente. Caso seja negativo, deve aparecer uma mensagem de erro. 
+13 - Ler dois inteiros. Caso sejam ambos pares, retorna sua soma. Caso ambos impares, retorna sua substração. Caso aum seja par e outro seja impar, sua multiplicação.
+14 - 
+15 - 
+16 - 
+17 -
+18 - 
+19 - 
+20 - 
